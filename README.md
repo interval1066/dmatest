@@ -54,7 +54,6 @@ ls -l /dev/dma_transfer
 ```
 
 This solution:
-- Handles the `THIS_MODULE` pointer compatibility issue
 - Maintains all DMA functionality
 - Works across different kernel versions
 - Includes proper error handling and cleanup
