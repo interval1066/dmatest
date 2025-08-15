@@ -1,6 +1,6 @@
 ﻿# dmatest
 
-Just some code to buid a kernel module to play around with the DMA.
+Just some code to buid a kernel module to play around with the DMA bus. The actual intent is to create an RDMA demo eventually.
 
 1. **Direct Piping Interface**:
    - Write to `/dev/dma_in` to send data
