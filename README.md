@@ -60,4 +60,4 @@ This solution:
 - Provides clear debug output
 
 The module creates `/dev/dma_transfer` which can be used with standard file operations while utilizing DMA buffers for data transfer.
-# NOTE: You'll need a special NIC (InfiniBand or a RoCEv2-capable card to implement RDMA between hosts). 
+** NOTE: You'll need a special NIC (InfiniBand or a RoCEv2-capable card to implement RDMA between hosts). 
